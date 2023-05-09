@@ -1,0 +1,20 @@
+{
+  "name": "expresstut",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "this is express",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
